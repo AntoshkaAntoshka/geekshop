@@ -7,15 +7,9 @@ click==8.0.4
 cryptography==36.0.2
 defusedxml==0.7.1
 Django==3.2.12
-<<<<<<< HEAD
-=======
 django-debug-toolbar==3.4.0
 django-debug-toolbar-template-profiler==2.0.2
-<<<<<<< HEAD
->>>>>>> lesson_14. debug-tool-bar
-=======
 django-extensions==3.1.5
->>>>>>> lesson_14. Testing tools
 gunicorn==20.1.0
 idna==3.3
 isort==5.10.1

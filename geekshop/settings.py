@@ -191,9 +191,6 @@ with open(
     github_auth = json.load(secrets)
 
 SOCIAL_AUTH_GITHUB_KEY = github_auth["client_id"]
-<<<<<<< HEAD
-SOCIAL_AUTH_GITHUB_SECRET = github_auth["client_secret"]
-=======
 SOCIAL_AUTH_GITHUB_SECRET = github_auth["client_secret"]
 
 # Django Debug Toolbar --->
@@ -238,4 +235,3 @@ if DEBUG:
         "template_profiler_panel.panels.template.TemplateProfilerPanel",
     ]
 # <--- Django Debug Toolbar
->>>>>>> lesson_14. debug-tool-bar
